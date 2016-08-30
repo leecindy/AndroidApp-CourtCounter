@@ -1,3 +1,3 @@
 # AndroidApp-CourtCounter
 
-Android App created from Udacity Android App Development course.
+First Android App created from Udacity Android App Development course.
